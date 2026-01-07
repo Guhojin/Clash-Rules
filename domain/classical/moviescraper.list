@@ -1,0 +1,16 @@
+# NAME: MovieScraper
+# AUTHOR: Guhojin
+# UPDATED: 2026-01-07
+# DESCRIPTION: 影音刮削专用分流列表，确保海报与元数据顺滑加载
+# -----------------------------------------------------------
+- DOMAIN-SUFFIX,themoviedb.org,国外
+- DOMAIN-SUFFIX,api.themoviedb.org,国外
+- DOMAIN-SUFFIX,image.tmdb.org,国外
+- DOMAIN-SUFFIX,tvdb.com,国外
+- DOMAIN-SUFFIX,api.thetvdb.com,国外
+- DOMAIN-SUFFIX,fanart.tv,国外
+- DOMAIN-SUFFIX,assets.fanart.tv,国外
+- DOMAIN-SUFFIX,omdbapi.com,国外
+- DOMAIN-SUFFIX,api.omdbapi.com,国外
+- DOMAIN-SUFFIX,trakt.tv,国外
+- DOMAIN-SUFFIX,api.trakt.tv,国外
