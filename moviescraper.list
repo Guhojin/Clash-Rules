@@ -1,8 +1,18 @@
+# NAME: MovieScraper
+# AUTHOR: Guhojin
+# UPDATED: 2026-01-07
+# DESCRIPTION: 影音刮削专用分流列表，确保海报与元数据顺滑加载
+# -----------------------------------------------------------
+# TMDB & CDN 加速
 tmdb-image-prod.b-cdn.net
 themoviedb.org
 tmdb.org
+# -----------------------------------------------------------
+# TVDB 剧集数据库
 tvdb.com
 thetvdb.com
+# -----------------------------------------------------------
+# 辅助元数据与艺术图
 fanart.tv
 omdbapi.com
 trakt.tv
