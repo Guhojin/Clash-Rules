@@ -1,6 +1,6 @@
 # NAME: MovieScraper
-# AUTHOR: Guhojin
-# UPDATED: 2026-01-07
+# AUTHOR: Lrs
+# UPDATED: 2026-01-12
 # DESCRIPTION: 影音刮削专用分流列表，确保海报与元数据顺滑加载
 # -----------------------------------------------------------
 DOMAIN-SUFFIX,themoviedb.org
